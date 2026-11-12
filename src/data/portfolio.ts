@@ -185,8 +185,8 @@ export const profile: Profile = {
 
 export const contact: Contact = {
   email: 'gouthampulivarthi4557@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/goutham-pulivarthi',
-  linkedinLabel: 'linkedin.com/in/goutham-pulivarthi',
+  linkedin: 'https://www.linkedin.com/in/goutham-pulivarthi-2627b2195',
+  linkedinLabel: 'linkedin.com/in/goutham-pulivarthi-2627b2195',
 }
 
 /** Career as a series — ordered chronologically, Season 1 first. */
