@@ -2,6 +2,10 @@
 
 A streaming-service-inspired personal portfolio for a Java Full Stack Developer.
 
+**Live site: [gouthampulivarthi.vercel.app](https://gouthampulivarthi.vercel.app)**
+
+Deployed on Vercel; every push to `main` redeploys automatically.
+
 **Stack:** React 19 · TypeScript · Vite · Tailwind CSS v4 · Motion
 
 ## Run locally
